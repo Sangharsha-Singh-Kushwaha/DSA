@@ -1,5 +1,6 @@
 ﻿using Mathematics;
 using System;
+using System.Collections.Generic;
 
 namespace DSAExecutable
 {
@@ -18,6 +19,8 @@ namespace DSAExecutable
             AllDivisonOfNumber ad = new AllDivisonOfNumber();
             AllPrimeNOLessThanN pn = new AllPrimeNOLessThanN();
             Power pw = new Power();
+            SumOfNoInString ss = new SumOfNoInString();
+            PangramOfString pana = new PangramOfString();
             //Console.WriteLine("Digit in number "+c.countdigit(4567900));
             //Console.WriteLine("Is Palindrome " + p.palindrome(789870));
             //Console.WriteLine("Factorial : " + f.factorial(5));
@@ -49,8 +52,8 @@ namespace DSAExecutable
             //ad.alldivisor1(100);
             //Console.WriteLine("All divisor of given no by 2 method are");
             //ad.alldivisor2(100);
-            Console.WriteLine("All divisor of given no by 3 method are");
-            ad.alldivisor3(6);
+            //Console.WriteLine("All divisor of given no by 3 method are");
+            //ad.alldivisor3(6);
             //Console.WriteLine("All prime no less than given no by 1 method are");
             //pn.AllPrineNumber(10);
             //Console.WriteLine("All prime no less than given no by SieveOfEratosthenes algoritm are");
@@ -61,7 +64,19 @@ namespace DSAExecutable
             //Console.WriteLine("Power of n1 to n2 is " + pw.power1(3, 9));
             //Console.WriteLine("Power of n1 to n2 is " + pw.power2(3, 9));
             //Console.WriteLine("Power of n1 to n2 is " + pw.power3(3, 9));
-            //Console.WriteLine( pw.solve("sd12gh12"));
+            //Console.WriteLine("Sum of no in string is " + ss.solve("sdf 12pdo12    poik12  "));
+            List<string> lll = new List<string>();
+            lll.Add("the");
+            lll.Add("quick");
+            lll.Add("brown");
+            lll.Add("fox");
+            lll.Add("jumps");
+            lll.Add("over");
+            lll.Add("the");
+            lll.Add("lazy");
+            lll.Add("dog");
+            
+            Console.WriteLine(pana.solve(lll));
             Console.ReadKey();
         }
     }

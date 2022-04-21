@@ -49,10 +49,12 @@
     <Compile Include="GCD.cs" />
     <Compile Include="LCM.cs" />
     <Compile Include="Palindrome.cs" />
+    <Compile Include="PangramOfString.cs" />
     <Compile Include="Power.cs" />
     <Compile Include="PrimeFactor.cs" />
     <Compile Include="PrimeNunber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SumOfNoInString.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
