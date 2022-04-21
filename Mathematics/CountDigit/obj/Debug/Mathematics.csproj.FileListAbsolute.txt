@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\DSA\Mathematics\CountDigit\bin\Debug\CountDigit.dll
+C:\Users\HP\Desktop\DSA\Mathematics\CountDigit\bin\Debug\CountDigit.pdb
+C:\Users\HP\Desktop\DSA\Mathematics\CountDigit\obj\Debug\Mathematics.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DSA\Mathematics\CountDigit\obj\Debug\CountDigit.dll
+C:\Users\HP\Desktop\DSA\Mathematics\CountDigit\obj\Debug\CountDigit.pdb
+C:\Users\HP\Desktop\DSA\Mathematics\CountDigit\obj\Debug\Mathematics.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\DSA\Mathematics\DSAExecutable\bin\Debug\DSAExecutable.exe.config
+C:\Users\HP\Desktop\DSA\Mathematics\DSAExecutable\bin\Debug\DSAExecutable.exe
+C:\Users\HP\Desktop\DSA\Mathematics\DSAExecutable\bin\Debug\DSAExecutable.pdb
+C:\Users\HP\Desktop\DSA\Mathematics\DSAExecutable\bin\Debug\CountDigit.dll
+C:\Users\HP\Desktop\DSA\Mathematics\DSAExecutable\bin\Debug\CountDigit.pdb
+C:\Users\HP\Desktop\DSA\Mathematics\DSAExecutable\obj\Debug\DSAExecutable.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DSA\Mathematics\DSAExecutable\obj\Debug\DSAExecutable.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DSA\Mathematics\DSAExecutable\obj\Debug\DSAExecutable.csproj.CopyComplete
+C:\Users\HP\Desktop\DSA\Mathematics\DSAExecutable\obj\Debug\DSAExecutable.exe
+C:\Users\HP\Desktop\DSA\Mathematics\DSAExecutable\obj\Debug\DSAExecutable.pdb
